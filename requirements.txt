@@ -1,0 +1,2 @@
+data-diff==0.8.4
+duckdb==0.8.1
